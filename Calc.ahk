@@ -1,6 +1,7 @@
 #noenv
 #SingleInstance Force
 #MaxThreads 5
+menu,tray,icon,% a_scriptdir "\resources\Calc4824.ico"
 DetectHiddenWindows,On
 DetectHiddenText,	On
 SetTitleMatchMode,	2
